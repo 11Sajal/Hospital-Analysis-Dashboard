@@ -4,3 +4,10 @@ This dashboard provides a comprehensive overview of hospital emergency room perf
 
 ## Dataset Used
 - <a href ="https://github.com/11Sajal/Hospital-Analysis-Dashboard/blob/main/Dashboard%20Hospital.xlsx">Hospital-Emergency-Room-Data</a>
+
+## Questions (KPIs)
+- How many patients visited the emergency room this month? (No. of Patients)
+- What is the average wait time for patients in the emergency room? (Average Wait Time)
+- What percentage of patients were admitted versus not admitted? (Admission Status)
+- How satisfied are patients with the emergency room services? (Satisfaction Score)
+- What are the most common department referrals for emergency room patients? (No. of Patients by Department Referral)
