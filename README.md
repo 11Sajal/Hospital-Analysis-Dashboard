@@ -1,2 +1,3 @@
-# Hospital-Analysis-Dashboard
-I have developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Hospital=Emergency-Room-Data-Analysis
+## Project Objective
+This dashboard provides a comprehensive overview of hospital emergency room performance, including patient admissions, wait times, satisfaction scores, and demographic insights to aid in data-driven decision-making and operational improvements.
