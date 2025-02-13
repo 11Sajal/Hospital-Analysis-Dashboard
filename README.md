@@ -22,3 +22,10 @@ This dashboard provides a comprehensive overview of hospital emergency room perf
 
 ## Dashboard
 ![Hospital Dashboard](https://github.com/user-attachments/assets/77507e8f-9a59-4f01-9fbd-80d72683e35b)
+
+## Project Insights
+- Patient Volume & Admissions: The emergency room handled 485 patients in June, with 48.45% admitted and 51.55% not admitted.
+- Wait Time & Satisfaction: The average wait time is 35.51 minutes, and the satisfaction score is 4.71, indicating areas for service improvement.
+- Patient Demographics: The highest number of patients fall in the 70-79 age group (71 patients), while other age groups show a balanced distribution.
+- Attendance & Delays: 61% of patients were attended on time, while 39% experienced delays, highlighting potential bottlenecks.
+- Department Referrals: 291 patients had no referrals, while others were sent to General Practice (91), Orthopedics (53), and other specialties, indicating the need for resource allocation in key departments.
