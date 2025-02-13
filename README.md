@@ -13,3 +13,12 @@ This dashboard provides a comprehensive overview of hospital emergency room perf
 - What are the most common department referrals for emergency room patients? (No. of Patients by Department Referral)
 
 - Dashboard Interraction <a href  ="https://github.com/11Sajal/Hospital-Analysis-Dashboard/blob/main/Hospital%20Dashboard.png">View Dashboard</a>
+
+## Process
+- Verified data for any missing values and anomalies, and addressed them.
+- Ensured data consistency and cleanliness in terms of data type, format, and values used.
+- Created pivot tables based on the questions asked.
+- Merged all pivot tables into a single dashboard and applied slicers to make it dynamic.
+
+## Dashboard
+![Hospital Dashboard](https://github.com/user-attachments/assets/77507e8f-9a59-4f01-9fbd-80d72683e35b)
