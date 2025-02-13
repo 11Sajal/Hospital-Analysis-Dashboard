@@ -11,3 +11,5 @@ This dashboard provides a comprehensive overview of hospital emergency room perf
 - What percentage of patients were admitted versus not admitted? (Admission Status)
 - How satisfied are patients with the emergency room services? (Satisfaction Score)
 - What are the most common department referrals for emergency room patients? (No. of Patients by Department Referral)
+
+- Dashboard Interraction <a href  ="https://github.com/11Sajal/Hospital-Analysis-Dashboard/blob/main/Hospital%20Dashboard.png">View Dashboard</a>
